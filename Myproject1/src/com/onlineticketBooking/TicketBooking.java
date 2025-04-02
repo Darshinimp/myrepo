@@ -1,7 +1,7 @@
 package com.onlineticketBooking;
 
 public class TicketBooking {
-	static int ticket=5;
+	static int ticket=6;
 public void displayTickets() {
 		System.out.println("Total Tickets Available:"+ticket);
 	}

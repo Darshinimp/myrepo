@@ -11,6 +11,7 @@ public class DemoBooking {
 		tb.bookTicket();
 		tb.bookTicket();
 		tb.bookTicket();
+		tb.bookTicket();
 		tb.displayTickets();
 	}
 
